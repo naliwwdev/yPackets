@@ -1,0 +1,10 @@
+name: yPackets
+version: 1.0
+main: yplugins.naliw.packets.YPacketsPlugin
+commands:
+  ypackets:
+    description: yPackets main command
+    usage: /<command> report
+permissions:
+  ypackets.admin:
+    default: op

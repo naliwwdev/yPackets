@@ -1,0 +1,4 @@
+webhook-url: ""
+profile:
+  sample-interval-ms: 50
+  sample-duration-seconds: 10
